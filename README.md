@@ -3,7 +3,7 @@
 </div>
 
 <h2 align="center">👋 I'm Jihad Wael</h1>
-<h3 align="center"> I'm a Frontend developer compatitive programmer 👩‍💻 </h3>
+<h3 align="center">  a Frontend developer and  compatitive programmer 👩‍💻 </h3>
 <br/>
 <br/>
 
