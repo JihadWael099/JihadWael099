@@ -56,7 +56,7 @@
 </p>
 
 <br>
- <h3>🔗Contact Me</h3>
+ <h3>🔗Contact me</h3>
  <p align="left">
 <a href="https://www.linkedin.com/in/jihad-wael-948602228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a> 
 <a href="https:"https://codeforces.com/profile/Jihadd_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces Account" height="30" width="40" /></a>
@@ -66,9 +66,9 @@
 
 
 <hr></hr>
-<div align="center" width="50">
-**Code Cycle**<br>
-
+<div align="center" width="50"><br>
+ 
+**Code Cycle**
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
