@@ -5,7 +5,7 @@
 <br/>
 
 <img align="right" src="https://github.com/JihadWael099/JihadWael099/blob/main/giphy.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="380" height="280"/><br> 
-<h5>Computer Science senior student 👩‍🎓 🎓 </h5>
+<h3>Computer Science senior student 👩‍🎓 🎓 </h3>
 
 
 
@@ -52,8 +52,8 @@
 </p>
 
  ### 🔗Contact Me
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-elhfnawy-a9256b223/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:AmrSaaayed74@gmail.com)](mailto:alaa.abdelraheem.elhfnawy@gmail.com)
+[![Linkedin](https://www.linkedin.com/in/jihad-wael-948602228)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:AmrSaaayed74@gmail.com)](mailto:jihadwael099@gmail.com)
 
 
 <!-- ### Stats
