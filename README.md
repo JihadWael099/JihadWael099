@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-<img align="right" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="380" height="280"/><br> 
+<img align="right" src="https://github.com/JihadWael099/JihadWael099/blob/main/giphy.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="380" height="280"/><br> 
 <h5>Computer Science senior student </h5>
 
 
