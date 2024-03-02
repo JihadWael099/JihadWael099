@@ -61,8 +61,7 @@
 <a href="https://www.linkedin.com/in/jihad-wael-948602228" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a> &nbsp;&nbsp;
 
-<a href="https:"https://codeforces.com/profile/Jihadd_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces Account" height="30" width="40" /></a>
-&nbsp;&nbsp;
+<a href="https:"https://codeforces.com/profile/Jihad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces Account" height="30" width="40" /></a>
 <a href="https://leetcode.com/gehadwael099/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Account" height="30" width="40" /></a>
 <a href="jihadwael099@gmail.com"><img align="center" src="https://github.com/JihadWael099/JihadWael099/blob/main/download.jpeg" alt="gemail" height="30" width="40" /></a>
 <br>
