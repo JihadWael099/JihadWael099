@@ -1,5 +1,5 @@
 
-<h2 align="center">Hello Everyone👋 I'm Jihad Wael</h1>
+<h2 align="center">Hello Everyone 👋 I'm Jihad Wael</h1>
 <h3 align="center"> I'm a Frontend developer and Problem Solver</h3>
 <br/>
 <br/>
@@ -58,7 +58,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:AmrSaaayed74@gmail.com)](mailto:jihadwael099@gmail.com)
 
 <hr></hr>
-
+<div align="center" width="50">
 **Code Cycle**<br>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
@@ -72,6 +72,7 @@
 
 
 
+</div>
 
 
 
