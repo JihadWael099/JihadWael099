@@ -1,8 +1,8 @@
 <div align="center" width="50">
-<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
+<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h1>
 </div>
 
-<h2 align="center"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> I'm Jihad Wael</h1>
+<h2 align="center"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> I'm Jihad Wael </h1>
 <h3 align="center">  a Frontend developer and  compatitive programmer 👩‍💻 </h3>
 <br/>
 <br/>
@@ -31,9 +31,7 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap" alt="Bootstrap"/>
   </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff" alt="Sass"/>
-  </a>
+ 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff" alt="React"/>
   </a>
@@ -46,12 +44,7 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff" alt="VS Code"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-    <img src="http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff" alt="Windows"/>
-  </a>
-  <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-notion-fff?style=flat-square&logo=notion&logoColor=000" alt="Notion"/>
-  </a>
+ 
 
 </p>
 
