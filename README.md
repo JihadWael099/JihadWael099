@@ -3,12 +3,12 @@
 </div>
 
 <h2 align="center"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> I'm Jihad Wael </h1>
-<h3 align="center">  a Frontend developer and  compatitive programmer 👩‍💻 </h3>
+<h3 align="center">  a Software Engineer and  compatitive programmer 👩‍💻 </h3>
 <br/>
 <br/>
 
 <img align="right" src="https://github.com/JihadWael099/JihadWael099/blob/main/giphy.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="350" height="280"/><br> 
-<h3>Fresh garduate Software Engineer </h3>
+<h3>Fresh graduate Software Engineer </h3>
 
 
 
