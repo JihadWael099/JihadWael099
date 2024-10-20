@@ -8,7 +8,7 @@
 <br/>
 
 <img align="right" src="https://github.com/JihadWael099/JihadWael099/blob/main/giphy.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="350" height="280"/><br> 
-<h3>Computer Science senior student 👩‍🎓 🎓 </h3>
+<h3>Fresh garduate Software Engineer </h3>
 
 
 
