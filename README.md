@@ -3,7 +3,7 @@
 </div>
 
 <h2 align="center"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> I'm Jihad Wael </h1>
-<h3 align="center">  a Software Engineer and  compatitive programmer 👩‍💻 </h3>
+<h3 align="center">  a Software Developer and  compatitive programmer 👩‍💻 </h3>
 <br/>
 <br/>
 
